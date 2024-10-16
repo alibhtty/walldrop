@@ -1,9 +1,9 @@
 {
-    "name":"Mixtape",
-    "short_name":"Mixtape",
-    "description":"Welcome to Mixtape by alibhtty",
+    "name":"Walls",
+    "short_name":"Walls",
+    "description":"Welcome to Walls by alibhtty",
     "background_color":"#000000",
-    "theme_color":"#066EFF",
+    "theme_color":"#000000",
     "orientation":"portrait",
     "display":"standalone",
     "start_url":"./?utm_source=web_app_manifest",
